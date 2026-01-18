@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+DSGenAI-env/
+# Node / misc
+node_modules/
+dist/
+# OS
+.DS_Store

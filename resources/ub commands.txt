@@ -1,0 +1,5 @@
+uv python install 3.12  -install particular version
+uv python pin 3.12  - to be able to use it as python interpreter at runtime
+uv run python - to use at runtime
+uv venv level-1-env- install virtual environments
+uv run python code.py - To run a file 
